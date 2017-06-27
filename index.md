@@ -5,7 +5,7 @@
 </head>
 <body><p> Ragna the Bloodedge</p>
 <img src="http://www.dustloop.com/wiki/images/thumb/f/fd/BBCS_Ragna_6A.png/175px-BBCS_Ragna_6A.png" alt="">
-<footer><img src="do 12-edited.jpg">
+<footer>
 </footer>
 </body>
 </html>
