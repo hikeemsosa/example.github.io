@@ -18,7 +18,9 @@
   </li>
 </ul>
     <p> you get them collons when you use a list item</p>
-    <img src="twitter-wrap.png" alt="twitter logo"> 
+    <img src="twitter-wrap.png" alt="twitter logo">
+    <p>something is wrong here</p>
+    <a href="http://twitter.com"><img src="img/twitter-wrap.png" alt="twitter logo"></a>
 </footer>
 </body>
 </html>
