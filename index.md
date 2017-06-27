@@ -12,7 +12,7 @@
     <img src="http://facebook.com">
   </li>
   <li>
-    <img src="http://twitter.com">
+    <img src="img/twitter-wrap.jpg">
   </li>
 </ul>
 </footer>
